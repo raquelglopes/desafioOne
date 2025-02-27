@@ -54,3 +54,31 @@ E quando o sorteio terminar   , há um botão **"Resetar"** para permitir que no
 
 🎉 **Divirta-se criando e sorteando seus amigos secretos!** 🎉
 
+
+💻** Confira as imagens da pagina de sorteio ** 💻 
+
+---
+Pagina Inicial
+
+![image](https://github.com/user-attachments/assets/c332a680-f997-405a-9fb8-a42b6e218ef6)
+
+
+---
+Alerta !! Insira um nome valido
+
+![image](https://github.com/user-attachments/assets/c2439a3c-7dc7-4d77-90c8-3260cce17a66)
+
+
+---
+Nomes Sorteados
+
+![image](https://github.com/user-attachments/assets/255b1c5b-76e4-41ab-b5d5-0fd74aa12d36)
+
+---
+Resetar o Sorteio
+
+![image](https://github.com/user-attachments/assets/9357b092-43aa-4bc4-bb5f-8bb3a30630b3)
+
+
+
+
